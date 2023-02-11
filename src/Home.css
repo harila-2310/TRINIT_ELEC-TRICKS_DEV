@@ -1,0 +1,36 @@
+
+.Head
+{
+  text-align:center;
+  background: #008970;
+}
+.district
+{
+
+   width: 10vw;
+   height: 5vh;
+   font-size: large;
+   position: absolute;
+   right: 72vw;
+  bottom: 65.2vh;
+
+}
+.state
+{
+  width: 10vw;
+   height: 5vh;
+   font-size: large;
+   margin-left: 10vh;
+}
+.barimg
+{
+  position: absolute;
+  width: 4vw;
+  bottom: 90vh;
+  cursor: pointer;
+}
+.description
+{
+  display: inline-block;
+}
+
